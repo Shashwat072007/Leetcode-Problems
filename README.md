@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0344-reverse-string) |
 ## Stack
 |  |
@@ -97,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
