@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [3731-find-missing-elements](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
