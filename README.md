@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
@@ -67,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
