@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0344-reverse-string) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0069-sqrtx) |
+## Sliding Window
+|  |
+| ------- |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
