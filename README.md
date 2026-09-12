@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0374-guess-number-higher-or-lower](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
 ## Sorting
 |  |
@@ -160,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
