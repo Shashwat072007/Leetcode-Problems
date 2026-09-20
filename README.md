@@ -16,6 +16,7 @@ Leetcode Practice Questions
 | [0066-plus-one](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0217-contains-duplicate) |
@@ -196,6 +197,7 @@ Leetcode Practice Questions
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
