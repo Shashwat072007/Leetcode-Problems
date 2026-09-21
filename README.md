@@ -117,11 +117,13 @@ Leetcode Practice Questions
 | [0125-valid-palindrome](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [1544-make-the-string-great](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0020-valid-parentheses) |
+| [1544-make-the-string-great](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1544-make-the-string-great) |
 ## Bracket Sequences
 |  |
 | ------- |
