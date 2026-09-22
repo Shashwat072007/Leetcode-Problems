@@ -24,6 +24,7 @@ Leetcode Practice Questions
 | [0283-move-zeroes](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -42,6 +43,7 @@ Leetcode Practice Questions
 | [0219-contains-duplicate-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -211,6 +213,7 @@ Leetcode Practice Questions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
