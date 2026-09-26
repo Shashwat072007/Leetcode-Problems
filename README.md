@@ -33,6 +33,7 @@ Leetcode Practice Questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -93,6 +94,7 @@ Leetcode Practice Questions
 | [0367-valid-perfect-square](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Leetcode Practice Questions
 | ------- |
 | [0169-majority-element](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
