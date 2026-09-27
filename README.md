@@ -27,6 +27,7 @@ Leetcode Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -83,6 +84,7 @@ Leetcode Practice Questions
 | [0283-move-zeroes](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -93,6 +95,7 @@ Leetcode Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
@@ -106,6 +109,7 @@ Leetcode Practice Questions
 | [0217-contains-duplicate](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
@@ -236,6 +240,7 @@ Leetcode Practice Questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0011-container-with-most-water) |
+| [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 ## Queue
 |  |
 | ------- |
