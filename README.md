@@ -54,6 +54,7 @@ Leetcode Practice Questions
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0067-add-binary) |
@@ -146,6 +147,7 @@ Leetcode Practice Questions
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
@@ -154,6 +156,7 @@ Leetcode Practice Questions
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0021-merge-two-sorted-lists) |
 ## Enumeration
 |  |
