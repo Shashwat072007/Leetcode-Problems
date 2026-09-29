@@ -55,6 +55,7 @@ Leetcode Practice Questions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0067-add-binary) |
