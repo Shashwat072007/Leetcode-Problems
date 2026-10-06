@@ -35,6 +35,7 @@ Leetcode Practice Questions
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3731-find-missing-elements](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
@@ -51,6 +52,7 @@ Leetcode Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Math
@@ -119,6 +121,7 @@ Leetcode Practice Questions
 | [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -212,6 +215,7 @@ Leetcode Practice Questions
 | ------- |
 | [0169-majority-element](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [2225-find-players-with-zero-or-one-losses](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2225-find-players-with-zero-or-one-losses) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
