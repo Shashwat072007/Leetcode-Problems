@@ -15,6 +15,7 @@ Leetcode Practice Questions
 | [0033-search-in-rotated-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -269,4 +270,8 @@ Leetcode Practice Questions
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
