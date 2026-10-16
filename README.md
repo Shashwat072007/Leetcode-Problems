@@ -30,6 +30,7 @@ Leetcode Practice Questions
 | [0283-move-zeroes](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0414-third-maximum-number) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
@@ -109,6 +110,7 @@ Leetcode Practice Questions
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
