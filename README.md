@@ -72,6 +72,7 @@ Leetcode Practice Questions
 | [0189-rotate-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0189-rotate-array) |
 | [0367-valid-perfect-square](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0633-sum-of-square-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -98,6 +99,7 @@ Leetcode Practice Questions
 | [0344-reverse-string](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,6 +114,7 @@ Leetcode Practice Questions
 | [0374-guess-number-higher-or-lower](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
+| [0633-sum-of-square-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0704-binary-search) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
