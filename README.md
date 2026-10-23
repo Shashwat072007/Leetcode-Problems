@@ -16,6 +16,7 @@ Leetcode Practice Questions
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0088-merge-sorted-array) |
@@ -219,6 +220,7 @@ Leetcode Practice Questions
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -239,6 +241,7 @@ Leetcode Practice Questions
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
