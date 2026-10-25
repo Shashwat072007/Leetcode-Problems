@@ -174,6 +174,7 @@ Leetcode Practice Questions
 | [0086-partition-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0142-linked-list-cycle-ii) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
