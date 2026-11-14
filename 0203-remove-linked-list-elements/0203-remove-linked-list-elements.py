@@ -1,12 +1,9 @@
 class Solution:
     def removeElements(self, head: ListNode | None, val: int) -> ListNode | None:
-        dummy = ListNode(0, head)
-        previous = dummy
-        current = head
-        while current:
-            if current.val == val:
-                previous.next = current.next
-            else:
-                previous = current
-            current = current.next
-        return dummy.next
+        if head is None:
+            return None
+        if head.val == val:
+            return self.removeElements(head.next,val)
+        else:
+            head.next = self.removeElements(head.next,val)
+            return head
