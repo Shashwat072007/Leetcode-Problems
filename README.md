@@ -108,6 +108,7 @@ Leetcode Practice Questions
 | [0611-valid-triangle-number](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0611-valid-triangle-number) |
 | [0633-sum-of-square-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -188,6 +189,7 @@ Leetcode Practice Questions
 | [0206-reverse-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
