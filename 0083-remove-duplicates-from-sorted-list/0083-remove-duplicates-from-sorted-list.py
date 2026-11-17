@@ -1,13 +1,13 @@
 class Solution:
     def deleteDuplicates(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        seen = set()
         current = head
-
-        while current and current.next:
-            if current.val == current.next.val:
-                # Skip the duplicate node
-                current.next = current.next.next
+        previous = None
+        while current:
+            if current.val in seen:
+                previous.next = current.next
             else:
-                # Move to the next distinct value
-                current = current.next
-
+                seen.add(current.val)
+                previous = current
+            current = current.next
         return head
