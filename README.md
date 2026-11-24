@@ -78,6 +78,7 @@ Leetcode Practice Questions
 | [0367-valid-perfect-square](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0367-valid-perfect-square) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0633-sum-of-square-numbers) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/3536-maximum-product-of-two-digits) |
 ## Two Pointers
@@ -171,6 +172,7 @@ Leetcode Practice Questions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0020-valid-parentheses) |
 | [1544-make-the-string-great](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/1544-make-the-string-great) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -194,6 +196,7 @@ Leetcode Practice Questions
 | [0237-delete-node-in-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2816-double-a-number-represented-as-a-linked-list](https://github.com/Shashwat072007/Leetcode-Problems/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
